@@ -7,6 +7,12 @@ package com.baeqiuzhu.design.builder;
  */
 public class Builder {
 
+	public Builder() {
+		super();
+	}
 	
+	public static void main(String[] args) {
+		System.out.println("git 远程提交测试！");
+	}
 	
 }

@@ -13,6 +13,7 @@ public class Builder {
 	
 	public static void main(String[] args) {
 		System.out.println("git 远程提交测试！");
+		System.out.println("git 远程提交测试！");
 	}
 	
 }
